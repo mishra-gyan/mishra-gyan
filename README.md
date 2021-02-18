@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gyan Mishra
 - 👀 I’m interested in learning about cloud computing and new programming languages
-- 🌱 I’m currently learning React and Python
+- 🌱 I’m currently learning React, Python and solving problems on GFG and leetcode.
 - 📫 Reach me gyan.mishra@gmail.com
 
 <!---
